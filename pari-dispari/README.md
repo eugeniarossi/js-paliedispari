@@ -7,3 +7,14 @@ Dichiariamo chi ha vinto.
 
 ***
 
+1. Definisco un input per pari e dispari. Definisco un input da 1 a 5
+
+2. Salvo un elemento del dom in cui stamperò il risultato in una variabile 
+
+3. Definisco una funzione in cui genero un numero random per il computer
+
+4. Sommo i due numeri 
+
+5. Definisco una funzione per stabilire se la somma è pari o dispari
+
+6. Stampo chi ha vinto
